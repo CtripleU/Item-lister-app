@@ -1,6 +1,6 @@
 # Item-lister-app
 
-This is a simple item lister add that I built with HTML, Bootstrap, and JavaScript. 
+This is a simple item lister app that I built with HTML, Bootstrap, and JavaScript. 
 It's functionalities include: adding an item, displaying the added item, deleting an item, and searching for an item.
 
 Here's a screenshot:
